@@ -2,7 +2,7 @@
 
 Multiroom scalable chat based on Play Framework 2 (Java) and Akka cluster
 
-This this sample of integration a play framework 2 app (java) with akka cluster. It's provide a possibility to add new play node for scale system. when a new node added all node in the cluster share chat messages, no matter which node receives the message.
+This this sample of integration a play framework 2 app (java) with akka cluster. It's provide a possibility to add new play node for scale system. when a new node added all nodes in the cluster share chat messages, no matter which node receives the message.
 
 run node1:
 
